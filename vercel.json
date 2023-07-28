@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://media-arabic.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+ }
